@@ -13,15 +13,12 @@ footer {
 	font-size: 1.6em;
 }
 
-header {
-	padding: 1.875em 0;
-}
-
 header h1 {
+	padding: 1.875em 0;
 	text-align: center;
 }
 
-h1, h2, h3 {
+h2, h3, h4, h5 {
 	margin: 0;
 }
 
@@ -29,7 +26,7 @@ h1 {
 	font-size: 2.5em;
 }
 
-main h2 {
+main h2, h3, h4, h5 {
 	padding: 0.625em 0 0.625em 0.625em;
 }
 
