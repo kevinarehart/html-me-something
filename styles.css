@@ -18,7 +18,12 @@ header h1 {
 	text-align: center;
 }
 
-h2, h3, h4, h5 {
+h2 {
+        padding: .5em 0;
+	text-align: center;
+}
+
+h3, h4, h5, h6 {
 	margin: 0;
 }
 
@@ -26,7 +31,7 @@ h1 {
 	font-size: 2.5em;
 }
 
-main h2, h3, h4, h5 {
+main h3, h4, h5, h6 {
 	padding: 0.625em 0 0.625em 0.625em;
 }
 
@@ -64,10 +69,6 @@ p {
 footer {
 	text-align: center;
 	padding: 3em;
-}
-
-footer p {
-	display: inline-block;
 }
 
 img {
