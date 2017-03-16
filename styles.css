@@ -14,7 +14,7 @@ footer {
 }
 
 header h1 {
-	padding: 1.875em 0;
+	padding: .5em 0;
 	text-align: center;
 }
 
@@ -23,7 +23,7 @@ h2 {
 	text-align: center;
 }
 
-h3, h4, h5, h6 {
+h3 {
 	margin: 0;
 }
 
@@ -31,7 +31,7 @@ h1 {
 	font-size: 2.5em;
 }
 
-main h3, h4, h5, h6 {
+main h3 {
 	padding: 0.625em 0 0.625em 0.625em;
 }
 
@@ -53,13 +53,14 @@ section:last-child {
 
 nav ul {
 	text-align: center;
-	padding: 0;
+	padding: .5em 0;
 }
 
 nav ul li {
 	display: inline-block;
 	margin-right: 1em;
 	font-size: 0.75em;
+	padding: .5em 0;
 }
 
 p {
@@ -68,7 +69,7 @@ p {
 
 footer {
 	text-align: center;
-	padding: 3em;
+	padding: .5em 0;
 }
 
 img {
