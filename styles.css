@@ -14,12 +14,12 @@ footer {
 }
 
 header h1 {
-	padding: .5em 0;
+	padding: .25em 0;
 	text-align: center;
 }
 
 h2 {
-        padding: .5em 0;
+        padding: .25em 0;
 	text-align: center;
 }
 
@@ -60,16 +60,16 @@ nav ul li {
 	display: inline-block;
 	margin-right: 1em;
 	font-size: 0.75em;
-	padding: .5em 0;
+	padding: .25em 0;
 }
 
 p {
-	padding: 1.25em;
+	padding: .5em;
 }
 
 footer {
 	text-align: center;
-	padding: .5em 0;
+	padding: .25em 0;
 }
 
 img {
